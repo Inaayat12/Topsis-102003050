@@ -1,13 +1,13 @@
 from distutils.core import setup
 setup(
-  name = 'Topsis_102003658',         
-  packages = ['Topsis_102003658'],  
+  name = 'Topsis-102003050',         
+  packages = ['Topsis-102003050'],  
   version = '0.1',
   license='MIT',
   description = 'Calculate Topsis score and save it in a csv file',
   author = 'Inaayat Goyal',                   
   author_email = 'igoyal1_be20@thapar.edu',     
-  url = 'https://github.com/anirudhchadha02/TOPSIS-102003658.git',
+  url = 'https://github.com/Inaayat12/Topsis-102003050.git',
   download_url = '',
   keywords = ['TOPSISSCORE', 'RANK', 'DATAFRAME'],
   install_requires=[
